@@ -9,7 +9,7 @@
     <xsl:apply-templates select="meta"/>
     <xsl:text>static STATION bsSta[] = {
 </xsl:text>
-    <xsl:apply-templates select="physicalChannel/service"/>
+    <xsl:apply-templates select="physicalChannel/service[not(@type) or (@type != 'radio' and @type != 'data')]"/>
     <xsl:text>};
 
 static int bsStaCount = sizeof(bsSta) / sizeof (STATION);
@@ -21,7 +21,7 @@ static int bsStaCount = sizeof(bsSta) / sizeof (STATION);
     <xsl:apply-templates select="meta"/>
     <xsl:text>static STATION csSta[] = {
 </xsl:text>
-    <xsl:apply-templates select="physicalChannel/service"/>
+    <xsl:apply-templates select="physicalChannel/service[not(@type) or (@type != 'radio' and @type != 'data')]"/>
     <xsl:text>};
 
 static int csStaCount = sizeof(csSta) / sizeof (STATION);
