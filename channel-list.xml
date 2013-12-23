@@ -48,6 +48,7 @@
 	<transportStreamID>17488</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>192</serviceID>
+        <kurobon>B5</kurobon>
       </service>
       <service id="193">
 	<name>WOWOWシネマ</name>
@@ -55,6 +56,7 @@
 	<transportStreamID>17489</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>193</serviceID>
+        <kurobon>B6</kurobon>
       </service>
     </physicalChannel>
     <physicalChannel id="7">
@@ -64,6 +66,7 @@
 	<transportStreamID>17520</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>201</serviceID>
+        <kurobon>B7</kurobon>
       </service>
       <service id="202">
 	<name>スター・チャンネル3</name>
@@ -71,6 +74,7 @@
 	<transportStreamID>17520</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>202</serviceID>
+        <kurobon>B7</kurobon>
       </service>
       <service id="236">
 	<name>BSアニマックス</name>
@@ -117,6 +121,7 @@
 	<transportStreamID>18096</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>238</serviceID>
+        <kurobon>B13</kurobon>
       </service>
       <service id="241">
 	<name>BSスカパー！</name>
@@ -124,6 +129,7 @@
 	<transportStreamID>18097</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>241</serviceID>
+        <kurobon>B22</kurobon>
       </service>
       <service id="231">
 	<name>放送大学1</name>
@@ -131,6 +137,7 @@
 	<transportStreamID>18098</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>231</serviceID>
+        <kurobon>B15</kurobon>
       </service>
       <service id="232">
 	<name>放送大学2</name>
@@ -138,6 +145,7 @@
 	<transportStreamID>18098</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>232</serviceID>
+        <kurobon>B15</kurobon>
       </service>
       <service id="233">
 	<name>放送大学3</name>
@@ -145,6 +153,7 @@
 	<transportStreamID>18098</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>233</serviceID>
+        <kurobon>B15</kurobon>
       </service>
       <service id="531" type="radio">
 	<name>放送大学ラジオ</name>
@@ -152,6 +161,7 @@
 	<transportStreamID>18098</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>531</serviceID>
+        <kurobon>B15</kurobon>
       </service>
     </physicalChannel>
     <physicalChannel id="13">
@@ -191,6 +201,7 @@
 	<transportStreamID>16626</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>910</serviceID>
+        <kurobon>B19</kurobon>
       </service>
     </physicalChannel>
     <physicalChannel id="17">
@@ -200,6 +211,7 @@
 	<transportStreamID>17168</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>291</serviceID>
+        <kurobon>B20</kurobon>
       </service>
       <service id="292">
 	<name>NHK教育テレビジョン（東京）</name>
@@ -207,6 +219,7 @@
 	<transportStreamID>17168</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>292</serviceID>
+        <kurobon>B20</kurobon>
       </service>
       <service id="294">
 	<name>日本テレビ</name>
@@ -214,6 +227,7 @@
 	<transportStreamID>17169</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>294</serviceID>
+        <kurobon>B21</kurobon>
       </service>
       <service id="295">
 	<name>テレビ朝日</name>
@@ -221,6 +235,7 @@
 	<transportStreamID>17169</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>295</serviceID>
+        <kurobon>B21</kurobon>
       </service>
       <service id="296">
 	<name>TBSテレビ</name>
@@ -228,6 +243,7 @@
 	<transportStreamID>17169</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>296</serviceID>
+        <kurobon>B21</kurobon>
       </service>
       <service id="297">
 	<name>テレビ東京</name>
@@ -235,6 +251,7 @@
 	<transportStreamID>17169</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>297</serviceID>
+        <kurobon>B21</kurobon>
       </service>
       <service id="298">
 	<name>フジテレビ</name>
@@ -242,6 +259,7 @@
 	<transportStreamID>17168</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>298</serviceID>
+        <kurobon>B20</kurobon>
       </service>
     </physicalChannel>
     <physicalChannel id="19">
@@ -258,6 +276,7 @@
 	<transportStreamID>18225</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>242</serviceID>
+        <kurobon>B23</kurobon>
       </service>
       <service id="243">
 	<name>J SPORTS 2</name>
@@ -265,6 +284,7 @@
 	<transportStreamID>18226</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>243</serviceID>
+        <kurobon>B23</kurobon>
       </service>
     </physicalChannel>
     <physicalChannel id="21">
@@ -274,6 +294,7 @@
 	<transportStreamID>18256</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>252</serviceID>
+        <kurobon>B24</kurobon>
       </service>
       <service id="244">
 	<name>J SPORTS 3</name>
@@ -281,6 +302,7 @@
 	<transportStreamID>18257</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>244</serviceID>
+        <kurobon>B25</kurobon>
       </service>
       <service id="245">
 	<name>J SPORTS 4</name>
@@ -288,6 +310,7 @@
 	<transportStreamID>18258</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>245</serviceID>
+        <kurobon>B26</kurobon>
       </service>
     </physicalChannel>
     <physicalChannel id="23">
@@ -297,6 +320,7 @@
 	<transportStreamID>18288</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>251</serviceID>
+        <kurobon>B27</kurobon>
       </service>
       <service id="255">
 	<name>日本映画専門チャンネル</name>
@@ -311,6 +335,7 @@
 	<transportStreamID>18290</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>258</serviceID>
+        <kurobon>B29</kurobon>
       </service>
     </physicalChannel>
   </channels>
@@ -438,7 +463,7 @@
 	<ONTVname>1059.ontvjapan.com</ONTVname>
 	<transportStreamID>24704</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
-	<serviceID>55</serviceID>
+	<serviceID>055</serviceID>
       </service>
       <service id="349">
 	<name>日テレＮＥＷＳ２４</name>
