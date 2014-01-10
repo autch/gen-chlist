@@ -463,7 +463,7 @@
 	<ONTVname>1059.ontvjapan.com</ONTVname>
 	<transportStreamID>24704</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
-	<serviceID>055</serviceID>
+	<serviceID>55</serviceID>
       </service>
       <service id="349">
 	<name>日テレＮＥＷＳ２４</name>
