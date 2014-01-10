@@ -1,3 +1,4 @@
+<?php
 // 全国用 BS デジタルチャンネルマップ
 // 作成者：https://github.com/autch/gen-chlist
 // 作成日時：2013-12-24
@@ -66,7 +67,7 @@ $CS_CHANNEL_MAP = array(
   "1069.ontvjapan.com" => "CS6",		// 354: ＣＮＮｊ
   "1062.ontvjapan.com" => "CS6",		// 340: ディスカバリー
   "1193.ontvjapan.com" => "CS6",		// 341: アニマルプラネット
-  "1059.ontvjapan.com" => "CS8",		// 055: ショップチャンネル
+  "1059.ontvjapan.com" => "CS8",		// 55: ショップチャンネル
   "2002.ontvjapan.com" => "CS8",		// 349: 日テレＮＥＷＳ２４
   "1010.ontvjapan.com" => "CS8",		// 218: 東映チャンネル
   "1005.ontvjapan.com" => "CS8",		// 219: 衛星劇場
