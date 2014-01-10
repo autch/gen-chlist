@@ -4,6 +4,12 @@
                               xmlns:dcterms="http://purl.org/dc/terms/">
   <xsl:output method="text" encoding="UTF-8"/>
   <xsl:strip-space elements="channel-list channels physicalChannel service"/>
+
+  <xsl:template match="/">
+    <xsl:text>&lt;?php
+</xsl:text>
+    <xsl:apply-templates select="*"/>
+  </xsl:template>
   
   <xsl:template match="/channel-list/channels[@type='BS']">
     <xsl:text>// 全国用 BS デジタルチャンネルマップ
