@@ -5,9 +5,9 @@
   <channels type="BS">
     <meta>
       <dcterms:creator xsi:type="dcterms:URI">https://github.com/autch/gen-chlist</dcterms:creator>
-      <dcterms:created xsi:type="dcterms:W3CDTF">2013-12-24</dcterms:created>
+      <dcterms:created xsi:type="dcterms:W3CDTF">2014-06-02</dcterms:created>
       <dc:source xsi:type="dcterms:URI">http://www5e.biglobe.ne.jp/~kazu_f/digital-sat/trapon-bsat.html</dc:source>
-      <dcterms:date xsi:type="dcterms:W3CDTF">2012-07-01</dcterms:date>
+      <dcterms:date xsi:type="dcterms:W3CDTF">2014-02-10</dcterms:date>
     </meta>
     <physicalChannel id="1">
       <service id="151">
@@ -61,7 +61,7 @@
     </physicalChannel>
     <physicalChannel id="7">
       <service id="201">
-	<name>スター・チャンネル2</name>
+	<name>スターチャンネル2</name>
 	<ONTVname>4201.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>17520</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -69,7 +69,7 @@
         <kurobon>B7</kurobon>
       </service>
       <service id="202">
-	<name>スター・チャンネル3</name>
+	<name>スターチャンネル3</name>
 	<ONTVname>4202.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>17520</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -93,14 +93,14 @@
     </physicalChannel>
     <physicalChannel id="9">
       <service id="211">
-	<name>BS11</name>
+	<name>BS11デジタル</name>
 	<ONTVname>3013.ontvjapan.com</ONTVname>
 	<transportStreamID>16528</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>211</serviceID>
       </service>
       <service id="200">
-	<name>スター・チャンネル1</name>
+	<name>スターチャンネル1</name>
 	<ONTVname>3012.ontvjapan.com</ONTVname>
 	<transportStreamID>16529</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -116,7 +116,7 @@
     </physicalChannel>
     <physicalChannel id="11">
       <service id="238">
-	<name>FOX bs238</name>
+	<name>FOXスポーツ＆エンターテイメント</name>
 	<ONTVname>4238.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>18096</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -132,27 +132,11 @@
         <kurobon>B22</kurobon>
       </service>
       <service id="231">
-	<name>放送大学1</name>
+	<name>放送大学テレビ</name>
 	<ONTVname>4231.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>18098</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>231</serviceID>
-        <kurobon>B15</kurobon>
-      </service>
-      <service id="232">
-	<name>放送大学2</name>
-	<ONTVname>4232.epgdata.ontvjapan</ONTVname>
-	<transportStreamID>18098</transportStreamID>
-	<originalNetworkID>4</originalNetworkID>
-	<serviceID>232</serviceID>
-        <kurobon>B15</kurobon>
-      </service>
-      <service id="233">
-	<name>放送大学3</name>
-	<ONTVname>4233.epgdata.ontvjapan</ONTVname>
-	<transportStreamID>18098</transportStreamID>
-	<originalNetworkID>4</originalNetworkID>
-	<serviceID>233</serviceID>
         <kurobon>B15</kurobon>
       </service>
       <service id="531" type="radio">
@@ -196,7 +180,7 @@
 	<serviceID>103</serviceID>
       </service>
       <service id="910">
-	<name>WNI</name>
+	<name>ウェザーニューズ</name>
 	<ONTVname>4910.ontvjapan.com</ONTVname>
 	<transportStreamID>16626</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -289,7 +273,7 @@
     </physicalChannel>
     <physicalChannel id="21">
       <service id="252">
-	<name>IMAGICA BS</name>
+	<name>イマジカBS・映画</name>
 	<ONTVname>4252.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>18256</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -323,14 +307,14 @@
         <kurobon>B27</kurobon>
       </service>
       <service id="255">
-	<name>日本映画専門チャンネル</name>
+	<name>BS日本映画専門チャンネル</name>
 	<ONTVname>4255.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>18289</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
 	<serviceID>255</serviceID>
       </service>
       <service id="258">
-	<name>D-Life</name>
+	<name>Dlife</name>
 	<ONTVname>4258.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>18290</transportStreamID>
 	<originalNetworkID>4</originalNetworkID>
@@ -342,27 +326,27 @@
   <channels type="CS">
     <meta>
       <dcterms:creator xsi:type="dcterms:URI">https://github.com/autch/gen-chlist</dcterms:creator>
-      <dcterms:created xsi:type="dcterms:W3CDTF">2013-12-24</dcterms:created>
+      <dcterms:created xsi:type="dcterms:W3CDTF">2014-06-02</dcterms:created>
       <dc:source xsi:type="dcterms:URI">http://www5e.biglobe.ne.jp/~kazu_f/digital-sat/trapon-nsat110.html</dc:source>
-      <dcterms:date xsi:type="dcterms:W3CDTF">2013-10-01</dcterms:date>
+      <dcterms:date xsi:type="dcterms:W3CDTF">2014-04-01</dcterms:date>
     </meta>
     <physicalChannel id="2">
       <service id="296">
-	<name>ＴＢＳチャンネル１</name>
+	<name>TBSチャンネル1</name>
 	<ONTVname>3201.ontvjapan.com</ONTVname>
 	<transportStreamID>24608</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
 	<serviceID>296</serviceID>
       </service>
       <service id="298">
-	<name>テレ朝チャンネルＨＤ</name>
+	<name>テレ朝チャンネル1 ドラマ・バラエティ・アニメ</name>
 	<ONTVname>1092.ontvjapan.com</ONTVname>
 	<transportStreamID>24608</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
 	<serviceID>298</serviceID>
       </service>
       <service id="299">
-	<name>朝日ニュースターＨＤ</name>
+	<name>テレ朝チャンネル2 ニュース・情報・スポーツ</name>
 	<ONTVname>1067.ontvjapan.com</ONTVname>
 	<transportStreamID>24608</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
@@ -371,7 +355,7 @@
     </physicalChannel>
     <physicalChannel id="4">
       <service id="100">
-	<name>スカパー！プロモ</name>
+	<name>スカパー！プロモ100</name>
 	<ONTVname>100ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>28736</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -385,14 +369,14 @@
 	<serviceID>227</serviceID>
       </service>
       <service id="223">
-	<name>チャンネルＮＥＣＯ</name>
+	<name>チャンネルNECO</name>
 	<ONTVname>1008.ontvjapan.com</ONTVname>
 	<transportStreamID>28736</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>223</serviceID>
       </service>
       <service id="250">
-	<name>ｓｋｙ・Ａスポーツ＋</name>
+	<name>スカイ・A スポーツ+</name>
 	<ONTVname>1040.ontvjapan.com</ONTVname>
 	<transportStreamID>28736</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -415,35 +399,35 @@
     </physicalChannel>
     <physicalChannel id="6">
       <service id="294">
-	<name>ホームドラマＣＨ</name>
+	<name>ホームドラマチャンネル</name>
 	<ONTVname>294ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>28768</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>294</serviceID>
       </service>
       <service id="329">
-	<name>歌謡ポップス</name>
+	<name>歌謡ポップスチャンネル</name>
 	<ONTVname>329ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>28768</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>329</serviceID>
       </service>
       <service id="323">
-	<name>ＭＴＶ　ＨＤ</name>
+	<name>MTV HD</name>
 	<ONTVname>1019.ontvjapan.com</ONTVname>
 	<transportStreamID>28768</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>323</serviceID>
       </service>
       <service id="354">
-	<name>ＣＮＮｊ</name>
+	<name>CNNj</name>
 	<ONTVname>1069.ontvjapan.com</ONTVname>
 	<transportStreamID>28768</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>354</serviceID>
       </service>
       <service id="340">
-	<name>ディスカバリー</name>
+	<name>ディスカバリーチャンネル</name>
 	<ONTVname>1062.ontvjapan.com</ONTVname>
 	<transportStreamID>28768</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -459,14 +443,14 @@
     </physicalChannel>
     <physicalChannel id="8">
       <service id="55">
-	<name>ショップチャンネル</name>
+	<name>ショップ チャンネル</name>
 	<ONTVname>1059.ontvjapan.com</ONTVname>
 	<transportStreamID>24704</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
 	<serviceID>55</serviceID>
       </service>
       <service id="349">
-	<name>日テレＮＥＷＳ２４</name>
+	<name>日テレNEWS24</name>
 	<ONTVname>2002.ontvjapan.com</ONTVname>
 	<transportStreamID>24704</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
@@ -503,28 +487,28 @@
     </physicalChannel>
     <physicalChannel id="10">
       <service id="800">
-	<name>スカチャン０</name>
+	<name>スカチャン0</name>
 	<ONTVname>800ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>24736</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
 	<serviceID>800</serviceID>
       </service>
       <service id="801">
-	<name>スカチャン１</name>
+	<name>スカチャン1</name>
 	<ONTVname>801ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>24736</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
 	<serviceID>801</serviceID>
       </service>
       <service id="802">
-	<name>スカチャン２</name>
+	<name>スカチャン2</name>
 	<ONTVname>802ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>24736</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
 	<serviceID>802</serviceID>
       </service>
       <service id="805">
-	<name>スカチャン３</name>
+	<name>スカチャン3</name>
 	<ONTVname>805ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>24736</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
@@ -533,21 +517,21 @@
     </physicalChannel>
     <physicalChannel id="12">
       <service id="254">
-	<name>ＧＡＯＲＡ</name>
+	<name>GAORA</name>
 	<ONTVname>1026.ontvjapan.com</ONTVname>
 	<transportStreamID>28864</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>254</serviceID>
       </service>
       <service id="325">
-	<name>エムオン！ＨＤ</name>
+	<name>MUSIC ON! TV HD</name>
 	<ONTVname>1022.ontvjapan.com</ONTVname>
 	<transportStreamID>28864</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>325</serviceID>
       </service>
       <service id="330">
-	<name>キッズステーション</name>
+	<name>キッズステーションHD</name>
 	<ONTVname>1045.ontvjapan.com</ONTVname>
 	<transportStreamID>28864</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -556,21 +540,21 @@
     </physicalChannel>
     <physicalChannel id="14">
       <service id="292">
-	<name>時代劇専門ｃｈＨＤ</name>
+	<name>時代劇専門チャンネルHD</name>
 	<ONTVname>1133.ontvjapan.com</ONTVname>
 	<transportStreamID>28896</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>292</serviceID>
       </service>
       <service id="293">
-	<name>ファミリー劇場ＨＤ</name>
+	<name>ファミリー劇場HD</name>
 	<ONTVname>1015.ontvjapan.com</ONTVname>
 	<transportStreamID>28896</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>293</serviceID>
       </service>
       <service id="310">
-	<name>スーパー！ドラマＨＤ</name>
+	<name>スーパー！ドラマTV HD</name>
 	<ONTVname>1006.ontvjapan.com</ONTVname>
 	<transportStreamID>28896</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -579,42 +563,42 @@
     </physicalChannel>
     <physicalChannel id="16">
       <service id="290">
-	<name>ＳＫＹ　ＳＴＡＧＥ</name>
+	<name>TAKARAZUKA SKY STAGE</name>
 	<ONTVname>1207.ontvjapan.com</ONTVname>
 	<transportStreamID>28928</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>290</serviceID>
       </service>
       <service id="305">
-	<name>チャンネル銀河</name>
+	<name>チャンネル銀河 歴史ドラマ・サスペンス・日本のうた</name>
 	<ONTVname>305ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>28928</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>305</serviceID>
       </service>
       <service id="333">
-	<name>ＡＴ−Ｘ</name>
+	<name>アニメシアターX (AT-X)</name>
 	<ONTVname>1201.ontvjapan.com</ONTVname>
 	<transportStreamID>28928</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>333</serviceID>
       </service>
       <service id="311">
-	<name>ＡＸＮ</name>
+	<name>AXN</name>
 	<ONTVname>1014.ontvjapan.com</ONTVname>
 	<transportStreamID>28928</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>311</serviceID>
       </service>
       <service id="343">
-	<name>ナショジオチャンネル</name>
+	<name>ナショナル ジオグラフィック チャンネル</name>
 	<ONTVname>1204.ontvjapan.com</ONTVname>
 	<transportStreamID>28928</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>343</serviceID>
       </service>
       <service id="353">
-	<name>ＢＢＣワールド</name>
+	<name>BBCワールドニュース</name>
 	<ONTVname>1070.ontvjapan.com</ONTVname>
 	<transportStreamID>28928</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -623,21 +607,21 @@
     </physicalChannel>
     <physicalChannel id="18">
       <service id="240">
-	<name>ムービープラスＨＤ</name>
+	<name>ムービープラスHD</name>
 	<ONTVname>1007.ontvjapan.com</ONTVname>
 	<transportStreamID>28960</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>240</serviceID>
       </service>
       <service id="262">
-	<name>ゴルフネットＨＤ</name>
+	<name>ゴルフネットワークHD</name>
 	<ONTVname>1027.ontvjapan.com</ONTVname>
 	<transportStreamID>28960</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>262</serviceID>
       </service>
       <service id="314">
-	<name>女性ｃｈ／ＬａＬａ</name>
+	<name>女性チャンネル♪LaLa TV(HD)</name>
 	<ONTVname>1074.ontvjapan.com</ONTVname>
 	<transportStreamID>28960</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -646,21 +630,21 @@
     </physicalChannel>
     <physicalChannel id="20">
       <service id="307">
-	<name>フジテレビＯＮＥ</name>
+	<name>フジテレビONE スポーツ・バラエティ</name>
 	<ONTVname>1073.ontvjapan.com</ONTVname>
 	<transportStreamID>28992</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>307</serviceID>
       </service>
       <service id="308">
-	<name>フジテレビＴＷＯ</name>
+	<name>フジテレビTWO ドラマ・アニメ</name>
 	<ONTVname>1072.ontvjapan.com</ONTVname>
 	<transportStreamID>28992</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>308</serviceID>
       </service>
       <service id="309">
-	<name>フジテレビＮＥＸＴ</name>
+	<name>フジテレビNEXT ライブ・プレミアム</name>
 	<ONTVname>309ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>28992</transportStreamID>
 	<originalNetworkID>6</originalNetworkID>
@@ -669,42 +653,42 @@
     </physicalChannel>
     <physicalChannel id="22">
       <service id="161">
-	<name>ＱＶＣ</name>
+	<name>QVC</name>
 	<ONTVname>1120.ontvjapan.com</ONTVname>
 	<transportStreamID>29024</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>161</serviceID>
       </service>
       <service id="297">
-	<name>ＴＢＳチャンネル２</name>
+	<name>TBSチャンネル2</name>
 	<ONTVname>297ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>29024</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>297</serviceID>
       </service>
       <service id="351">
-	<name>ＴＢＳニュースバード</name>
+	<name>TBSニュースバード</name>
 	<ONTVname>1076.ontvjapan.com</ONTVname>
 	<transportStreamID>29024</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>351</serviceID>
       </service>
       <service id="312">
-	<name>ＦＯＸ</name>
+	<name>FOX</name>
 	<ONTVname>1016.ontvjapan.com</ONTVname>
 	<transportStreamID>29024</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>312</serviceID>
       </service>
       <service id="322">
-	<name>スペースシャワーＴＶ</name>
+	<name>スペースシャワーTV</name>
 	<ONTVname>1018.ontvjapan.com</ONTVname>
 	<transportStreamID>29024</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>322</serviceID>
       </service>
       <service id="331">
-	<name>カートゥーン</name>
+	<name>カートゥーン ネットワーク</name>
 	<ONTVname>1046.ontvjapan.com</ONTVname>
 	<transportStreamID>29024</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
@@ -713,28 +697,28 @@
     </physicalChannel>
     <physicalChannel id="24">
       <service id="229">
-	<name>ＦＯＸムービー</name>
+	<name>FOXムービー プレミアム</name>
 	<ONTVname>229ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>29056</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>229</serviceID>
       </service>
       <service id="257">
-	<name>日テレＧ＋　ＨＤ</name>
+	<name>日テレG+ HD</name>
 	<ONTVname>1068.ontvjapan.com</ONTVname>
 	<transportStreamID>29056</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>257</serviceID>
       </service>
       <service id="300">
-	<name>日テレプラス</name>
+	<name>日テレプラス ドラマ・アニメ・スポーツ</name>
 	<ONTVname>300ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>29056</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
 	<serviceID>300</serviceID>
       </service>
       <service id="321">
-	<name>スペシャプラス</name>
+	<name>100%ヒッツ！スペースシャワーTVプラス</name>
 	<ONTVname>321ch.epgdata.ontvjapan</ONTVname>
 	<transportStreamID>29056</transportStreamID>
 	<originalNetworkID>7</originalNetworkID>
