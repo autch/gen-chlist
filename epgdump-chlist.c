@@ -1,7 +1,7 @@
 // 作成者：https://github.com/autch/gen-chlist
-// 作成日時：2014-06-02
+// 作成日時：2016-12-08
 // 参照元：http://www5e.biglobe.ne.jp/~kazu_f/digital-sat/trapon-bsat.html
-// 参照元の更新日時：2014-02-10
+// 参照元の更新日時：2016-09-03
 static STATION bsSta[] = {
   { "BS朝日", "3005.ontvjapan.com", 16400, 4, 151 },
   { "BS-TBS", "3006.ontvjapan.com", 16401, 4, 161 },
@@ -24,13 +24,6 @@ static STATION bsSta[] = {
   { "NHK BS1", "3001.ontvjapan.com", 16625, 4, 101 },
   { "NHK BSプレミアム", "3003.ontvjapan.com", 16626, 4, 103 },
   { "ウェザーニューズ", "4910.ontvjapan.com", 16626, 4, 910 },
-  { "NHK総合テレビジョン（東京）", "4291.epgdata.ontvjapan", 17168, 4, 291 },
-  { "NHK教育テレビジョン（東京）", "4292.epgdata.ontvjapan", 17168, 4, 292 },
-  { "日本テレビ", "4294.epgdata.ontvjapan", 17169, 4, 294 },
-  { "テレビ朝日", "4295.epgdata.ontvjapan", 17169, 4, 295 },
-  { "TBSテレビ", "4296.epgdata.ontvjapan", 17169, 4, 296 },
-  { "テレビ東京", "4297.epgdata.ontvjapan", 17169, 4, 297 },
-  { "フジテレビ", "4298.epgdata.ontvjapan", 17168, 4, 298 },
   { "グリーンチャンネル", "4234.epgdata.ontvjapan", 18224, 4, 234 },
   { "J SPORTS 1", "4242.epgdata.ontvjapan", 18225, 4, 242 },
   { "J SPORTS 2", "4243.epgdata.ontvjapan", 18226, 4, 243 },
@@ -45,9 +38,9 @@ static STATION bsSta[] = {
 static int bsStaCount = sizeof(bsSta) / sizeof (STATION);
 
 // 作成者：https://github.com/autch/gen-chlist
-// 作成日時：2014-06-02
+// 作成日時：2016-12-08
 // 参照元：http://www5e.biglobe.ne.jp/~kazu_f/digital-sat/trapon-nsat110.html
-// 参照元の更新日時：2014-04-01
+// 参照元の更新日時：2016-09-03
 static STATION csSta[] = {
   { "TBSチャンネル1", "3201.ontvjapan.com", 24608, 6, 296 },
   { "テレ朝チャンネル1 ドラマ・バラエティ・アニメ", "1092.ontvjapan.com", 24608, 6, 298 },
@@ -55,7 +48,7 @@ static STATION csSta[] = {
   { "スカパー！プロモ100", "100ch.epgdata.ontvjapan", 28736, 7, 100 },
   { "ザ・シネマ", "1217.ontvjapan.com", 28736, 7, 227 },
   { "チャンネルNECO", "1008.ontvjapan.com", 28736, 7, 223 },
-  { "スカイ・A スポーツ+", "1040.ontvjapan.com", 28736, 7, 250 },
+  { "スカイ・A", "1040.ontvjapan.com", 28736, 7, 250 },
   { "ヒストリーチャンネル", "1050.ontvjapan.com", 28736, 7, 342 },
   { "囲碁・将棋チャンネル", "363ch.epgdata.ontvjapan", 28736, 7, 363 },
   { "ホームドラマチャンネル", "294ch.epgdata.ontvjapan", 28768, 7, 294 },
@@ -98,9 +91,9 @@ static STATION csSta[] = {
   { "FOX", "1016.ontvjapan.com", 29024, 7, 312 },
   { "スペースシャワーTV", "1018.ontvjapan.com", 29024, 7, 322 },
   { "カートゥーン ネットワーク", "1046.ontvjapan.com", 29024, 7, 331 },
-  { "FOXムービー プレミアム", "229ch.epgdata.ontvjapan", 29056, 7, 229 },
   { "日テレG+ HD", "1068.ontvjapan.com", 29056, 7, 257 },
   { "日テレプラス ドラマ・アニメ・スポーツ", "300ch.epgdata.ontvjapan", 29056, 7, 300 },
+  { "", "316ch.epgdata.ontvjapan", , , 316 },
   { "100%ヒッツ！スペースシャワーTVプラス", "321ch.epgdata.ontvjapan", 29056, 7, 321 },
   { "旅チャンネル", "1052.ontvjapan.com", 29056, 7, 362 },
 };

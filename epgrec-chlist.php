@@ -1,9 +1,9 @@
 <?php
 // 全国用 BS デジタルチャンネルマップ
 // 作成者：https://github.com/autch/gen-chlist
-// 作成日時：2014-06-02
+// 作成日時：2016-12-08
 // 参照元：http://www5e.biglobe.ne.jp/~kazu_f/digital-sat/trapon-bsat.html
-// 参照元の更新日時：2014-02-10
+// 参照元の更新日時：2016-09-03
 $BS_CHANNEL_MAP = array(
   "3005.ontvjapan.com" => "151",		// BS朝日
   "3006.ontvjapan.com" => "161",		// BS-TBS
@@ -26,13 +26,6 @@ $BS_CHANNEL_MAP = array(
   "3001.ontvjapan.com" => "101",		// NHK BS1
   "3003.ontvjapan.com" => "103",		// NHK BSプレミアム
   "4910.ontvjapan.com" => "910",		// ウェザーニューズ
-  "4291.epgdata.ontvjapan" => "291",		// NHK総合テレビジョン（東京）
-  "4292.epgdata.ontvjapan" => "292",		// NHK教育テレビジョン（東京）
-  "4294.epgdata.ontvjapan" => "294",		// 日本テレビ
-  "4295.epgdata.ontvjapan" => "295",		// テレビ朝日
-  "4296.epgdata.ontvjapan" => "296",		// TBSテレビ
-  "4297.epgdata.ontvjapan" => "297",		// テレビ東京
-  "4298.epgdata.ontvjapan" => "298",		// フジテレビ
   "4234.epgdata.ontvjapan" => "234",		// グリーンチャンネル
   "4242.epgdata.ontvjapan" => "242",		// J SPORTS 1
   "4243.epgdata.ontvjapan" => "243",		// J SPORTS 2
@@ -46,9 +39,9 @@ $BS_CHANNEL_MAP = array(
 
 // 全国用 CS デジタルチャンネルマップ
 // 作成者：https://github.com/autch/gen-chlist
-// 作成日時：2014-06-02
+// 作成日時：2016-12-08
 // 参照元：http://www5e.biglobe.ne.jp/~kazu_f/digital-sat/trapon-nsat110.html
-// 参照元の更新日時：2014-04-01
+// 参照元の更新日時：2016-09-03
 $CS_CHANNEL_MAP = array(
   "3201.ontvjapan.com" => "CS2",		// 296: TBSチャンネル1
   "1092.ontvjapan.com" => "CS2",		// 298: テレ朝チャンネル1 ドラマ・バラエティ・アニメ
@@ -56,7 +49,7 @@ $CS_CHANNEL_MAP = array(
   "100ch.epgdata.ontvjapan" => "CS4",		// 100: スカパー！プロモ100
   "1217.ontvjapan.com" => "CS4",		// 227: ザ・シネマ
   "1008.ontvjapan.com" => "CS4",		// 223: チャンネルNECO
-  "1040.ontvjapan.com" => "CS4",		// 250: スカイ・A スポーツ+
+  "1040.ontvjapan.com" => "CS4",		// 250: スカイ・A
   "1050.ontvjapan.com" => "CS4",		// 342: ヒストリーチャンネル
   "363ch.epgdata.ontvjapan" => "CS4",		// 363: 囲碁・将棋チャンネル
   "294ch.epgdata.ontvjapan" => "CS6",		// 294: ホームドラマチャンネル
@@ -99,9 +92,9 @@ $CS_CHANNEL_MAP = array(
   "1016.ontvjapan.com" => "CS22",		// 312: FOX
   "1018.ontvjapan.com" => "CS22",		// 322: スペースシャワーTV
   "1046.ontvjapan.com" => "CS22",		// 331: カートゥーン ネットワーク
-  "229ch.epgdata.ontvjapan" => "CS24",		// 229: FOXムービー プレミアム
   "1068.ontvjapan.com" => "CS24",		// 257: 日テレG+ HD
   "300ch.epgdata.ontvjapan" => "CS24",		// 300: 日テレプラス ドラマ・アニメ・スポーツ
+  "316ch.epgdata.ontvjapan" => "CS24",		// 316: 
   "321ch.epgdata.ontvjapan" => "CS24",		// 321: 100%ヒッツ！スペースシャワーTVプラス
   "1052.ontvjapan.com" => "CS24",		// 362: 旅チャンネル
 );
